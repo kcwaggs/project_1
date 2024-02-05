@@ -5,6 +5,7 @@ PlayerCareerByCollege
 FranchisePlayers
 resource: https://www.kaggle.com/datasets/bme3412/nba-player-stats-20002020-seasons?resource=download
 another: https://www.kaggle.com/datasets/justinas/nba-players-data
+college hex colors: https://teamcolorcodes.com/ncaa-color-codes/#
 
 I tried running the code below but it kept timing out due to the volume of data and rate limits for the API: 
     import time
