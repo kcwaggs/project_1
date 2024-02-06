@@ -7,10 +7,10 @@ The pandas, matplotlib.pyplot, scipy.stats, numpy, and nba_api modules are requi
 ### Installation
 Clone the repository: git@github.com:kcwaggs/project_1.git
 ### Usage
-Select a python kernel and run all code blocks to create the necessary dataframes and visualizations. The bar graphs need to be manuall saved to avoid having the team names cut off on the x-axis labels. 
+Select a python kernel and run all code blocks to create the necessary dataframes and visualizations. The bar graphs need to be manually saved to avoid having the team names cut off on the x-axis labels. 
 ### Data Sources
 Get team by ID - https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/static/teams.md \
-NBA champions by year - https://en.wikipedia.org/wiki/List_of_NBA_champions \ 
+NBA champions by year - https://en.wikipedia.org/wiki/List_of_NBA_champions \
 Points against and opponents points scored for playoffs and regular season - https://www.nba.com/stats/teams/opponent?Season=2019-20 \
 NBA team hex colors - https://nbacolors.com/ \
 Team stats by year (nba_api) - https://github.com/swar/nba_api/blob/master/docs/nba_api/stats/endpoints/teamyearbyyearstats.md 
