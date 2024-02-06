@@ -1,5 +1,5 @@
 # Data Bootcamp Project 1
-## Keegan
+## keegan.ipynb
 ### Description
 keegan.ipynb uses data from the NBA and nba_api package to determine if playoff performance can be predicted by regular season performance when looking at average point differential and win percentage.
 ### Requirements
