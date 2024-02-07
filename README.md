@@ -33,6 +33,5 @@ Player Stats Data: https://www.kaggle.com/datasets/bme3412/nba-player-stats-2000
 NBA Player Data: https://www.kaggle.com/datasets/justinas/nba-players-data \
 college hex colors: https://teamcolorcodes.com/ncaa-color-codes/# \
 NBA Logo hex colors: https://www.brandcolorcode.com/nba-national-basketball-association \
-### Code Sources and Errors
-
 ### Analysis
+When evaluating a player's background and college attended I quickly realized that I would need more information than what was available in the API our team had found. I found public-source data in Kaggle to utilize in order to better dig into my question - "Does the college a player attended impact their NBA career?". In my analysis I saw that there were 290 colleges for the 2,061 players in the NBA from 2000-2020. 406 of these players came from the top 10 colleges (shos in my figures). From hre I created bins to group colleges by how many players they had go into the NBA. From this analysis I can conclude that the average length of a player's career increases for those who went to colleges that had more NBA players. The average amount of games also increased for the top colleges. 
