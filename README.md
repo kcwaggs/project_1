@@ -1,7 +1,7 @@
 # Data Bootcamp Project 1
 
 # Project Information: 
-Executive Summary: https://docs.google.com/document/d/1xhIPxAR5KVHRAyKF5ryFT5mmiWvbziGh75YVDfb3IDo/edit
+Executive Summary: https://docs.google.com/document/d/1xhIPxAR5KVHRAyKF5ryFT5mmiWvbziGh75YVDfb3IDo/edit \
 Slide deck: https://docs.google.com/presentation/d/1BPzSST4ZOAHA2o2NfFrhEX57UMo1IZ9aTmDza9jV8FA/edit#slide=id.g35f391192_04
 
 ## keegan.ipynb
