@@ -29,10 +29,10 @@ When trying to determine if playoff performance can be predicted by looking at r
 ### Description
 This analysis uses data from public Kaggle CSVs for player data and stats to evaluate players and their experience to the college they attended. 
 ### Data Sources
-Player Stats Data: https://www.kaggle.com/datasets/bme3412/nba-player-stats-20002020-seasons?resource=download
-NBA Player Data: https://www.kaggle.com/datasets/justinas/nba-players-data
-college hex colors: https://teamcolorcodes.com/ncaa-color-codes/#
-NBA Logo hex colors: https://www.brandcolorcode.com/nba-national-basketball-association
+Player Stats Data: https://www.kaggle.com/datasets/bme3412/nba-player-stats-20002020-seasons?resource=download \
+NBA Player Data: https://www.kaggle.com/datasets/justinas/nba-players-data \
+college hex colors: https://teamcolorcodes.com/ncaa-color-codes/# \
+NBA Logo hex colors: https://www.brandcolorcode.com/nba-national-basketball-association \
 ### Code Sources and Errors
 
 ### Analysis
